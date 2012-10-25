@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /app
+Disallow: /cache
+Disallow: /css
+Disallow: /js
+Disallow: /images
+Disallow: /kissmvc*
+Disallow: /less
+Disallow: /index.php
+Sitemap: http://www.novakgardendesign.com/sitemap.xml

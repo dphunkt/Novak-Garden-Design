@@ -1,0 +1,8 @@
+<div class="span9">
+    <p itemscope itemtype="http://schema.org/Person">
+        <img src="/images/joe.png" alt="Joseph F. Novak, Owner/Operator" class="fl thumbnail" itemprop="image"/><strong><span itemprop="name">Joseph F. Novak</span>, <span itemprop="title">Owner/Operator of Novak Garden Design &amp; Construction</span></strong> was raised on a farm in southeastern PA, where his love for the land began with his grandfather showing him how to grow plants from seeds and cuttings. He went on to major in floriculture/landscaping and green-house management in high school. Joe majored in horticulture/landscaping and turf management at <span itemprop="affiliation">Williamson Trade School in Media, PA</span>. There, he was recognized as a stand out in his class and received the following awards: <span itemprop="awards">Industry Award in 1999 for his diligence and hard work in the field; Character Award in 1999 for reliability, personal integrity and service above the call of duty; The Pennsylvania Horticultural Society Service Award in 2002, in recognition for consistency in demonstrating a desire to promote horticulture through community service projects and Philadelphia Flower Show participation; The IV Award in 2002, for exemplary character and skills in leadership.</span>
+    </p>
+    <p>
+        Joe led his class to win 2nd <span itemprop="name">Best in Show in the Philadelphia Flower Show</span> in 2002 with his concept for a garden inspired by Robert Frost's poem, <em>An Afternoon in Winter's Eden</em>.
+    </p>
+</div>
